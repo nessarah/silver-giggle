@@ -31,6 +31,7 @@ MySQL is a well-known open-source relational database management system and one 
 
 ![image](https://user-images.githubusercontent.com/95832485/174488790-7312caf3-af80-4945-a0fe-caf70556989d.png)
 
+
 ![image](https://user-images.githubusercontent.com/95832485/174489227-66e7fc9f-b664-477d-9793-c6f8869e3db0.png)
 
 - show database
@@ -42,3 +43,9 @@ MySQL is a well-known open-source relational database management system and one 
 ![image](https://user-images.githubusercontent.com/95832485/174489144-239dfd43-da95-4e65-a99c-73dd40ad93c0.png)
 
 ![image](https://user-images.githubusercontent.com/95832485/174488673-b1037fd6-283e-44f3-92f0-72ecf3a1a271.png)
+
+Our teams
+- Shahreen Shafiq bin Shamsul Aswadi (2016341)
+- Muhammad Amiruddin bin Khairuddin (2013325)
+- Annesa Maisarah binti Ab Hamid (2011728)
+- Nur Hanna binti Yusof (2017380)
